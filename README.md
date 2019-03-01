@@ -1,4 +1,4 @@
-# tum_simulator-DCA
+# tum_simulator-DCA (BETA)
 
 Original Github https://github.com/angelsantamaria/tum_simulator.git
 
